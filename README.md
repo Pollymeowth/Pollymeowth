@@ -6,4 +6,4 @@ Pollymeowth/Pollymeowth is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-![Kawaii-Girl-With-Brown-Hair-Who-Loves-Books-61517149-1](https://github.com/Pollymeowth/Pollymeowth/assets/137526500/52d92264-e8bb-42fe-9759-bc1ed6a9f3cf)
+
