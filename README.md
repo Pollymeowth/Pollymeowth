@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pollymeowth&label=Profile%20views&color=0e75b6&style=flat" alt="pollymeowth" /> </p>
 
-- 🔭 I’m currently working on [an online course website](https://github.com/TechWizards-Tech/DSM-1)
+- [My portfolio](https://pollymeowth.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
