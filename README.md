@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pollymeowth&label=Profile%20views&color=0e75b6&style=flat" alt="pollymeowth" /> </p>
 
-- [My portfolio](https://pollymeowth.github.io/)
+- [My portfolio](https://github.com/Pollymeowth/Portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
